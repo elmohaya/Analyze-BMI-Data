@@ -17,5 +17,5 @@ have been designed in the form of questionnaires to gather the following variabl
 
 > 6- Job Status (Employee, Unemployed, Student)
 
-The above variable and others were collected during a period of several months. This Project clearly demonstrates the findings 
+The above variables and others were collected during a period of several months. This Project clearly demonstrates the findings 
 of this data and relates the BMI to the above-mentioned variables. 
